@@ -1,2 +1,2 @@
 # Hotel-website
-a websit describing a hotel
+a website describing a hotel
